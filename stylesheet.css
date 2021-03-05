@@ -1,13 +1,16 @@
+
+
 /* Wwrite a css selector for the body element.
 It should contain two property: value; statements.
 The first should add a background color. Choose one of the hexadecimal colors that you picked with the eyedropper in photoshop;
 The second ahould change the font to the google font that you choose;
-
-
 body {
   Background-color: #fff;
   font-family: 'Bodonii Moda', serif;
 )
+
+
+
 
 
 /* Write a css selector for the table heading element.
@@ -16,8 +19,7 @@ The first should add a background color;
 The second should change the type color to hexadecimal white;
 The third should make the size of the type 36;
 The fourth should align type so that it is centered; */
-
-thead {
+th{
    background-color: #000;
    color: #fff;
    font-size: 36px;
