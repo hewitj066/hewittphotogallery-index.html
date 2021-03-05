@@ -1,0 +1,60 @@
+/* Wwrite a css selector for the body element.
+It should contain two property: value; statements.
+The first should add a background color. Choose one of the hexadecimal colors that you picked with the eyedropper in photoshop;
+The second ahould change the font to the google font that you choose;
+
+
+body {
+  Background-color: #fff;
+  font-family: 'Bodonii Moda', serif;
+)
+
+
+/* Write a css selector for the table heading element.
+It should contain four property: value; statements.
+The first should add a background color;
+The second should change the type color to hexadecimal white;
+The third should make the size of the type 36;
+The fourth should align type so that it is centered; */
+
+thead {
+   background-color: #000;
+   color: #fff;
+   font-size: 36px;
+   text-align: center;
+}
+
+/* Write a css selector for the table data element.
+It should contain two property: valu; statements.
+The first should set the width to 30%;
+The seond should set the padding to 5px; */
+
+td {
+  width: 30%
+  padding: 5px;
+{
+
+
+
+
+/* write a css selector that targets any image element that is inside of a table dats element.
+It should contain one property: value; statement.
+This statement should set the width to 100%; */
+
+td img {
+  width: 100%;
+}
+
+
+
+/* Write a css selector that targets the caption class.
+It should contain three property: value; statements.
+The first should change the color of he text;
+The second should change the size of the text to 18px;
+The third should align the text so that it is centered: */
+
+.caption {
+  color: #cc;
+  font-size: 18px;
+  text-align: center;
+}
